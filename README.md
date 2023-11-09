@@ -48,6 +48,7 @@ The following libraries and weights are required to run the application:
 | Keras-Preprocessing | 1.1.2 |
 | opencv-python | 4.8.0.76 |
 | pyttsx3 | 2.90 |
+| SpeechRecognition | 3.10.0 |
 | yolov3-416 weights | [Drive link](https://drive.google.com/file/d/1sRdGUSyfGW-tz-FaJ0-ufCjzVQF7sleX/view?usp=sharing) |
 
 ## Installation
