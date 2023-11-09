@@ -71,18 +71,12 @@ pip install pyttsx3==2.90
 
 1. **Creating the Detection Model:**
 
-Run yolo_algo.ipynb to create the YOLO object detection model. This will generate a model.h5 file.
-The model only needs to be created once. The generated model.h5 can be reused.
+Run yolo_algo.ipynb to create the YOLO object detection model. This will generate a model.h5 file.
+The model only needs to be created once. The generated model.h5 can be reused.
 
 2. **Running Object Detection:**
 
-Run main.ipynb to run real-time object detection using the created model.h5.
-main.ipynb needs to be executed each time you want to detect objects.
+Run main.ipynb to run real-time object detection using the created model.h5.
+main.ipynb needs to be executed each time you want to detect objects.
 Connect a camera and point it at objects.
 Detected objects and information will be conveyed through audio.
-
-## Download
-
-To download the README.md file, click the following link:
-
-[Download README.md](https://raw.githubusercontent.com/bardnlg/bard-public/master/readme.md)
